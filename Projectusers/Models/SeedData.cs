@@ -30,7 +30,7 @@ namespace Projectusers.Models
                             Surname = "Smith",
                             dateOfBirth = DateTime.Parse("1999-2-12"),
                             Login = "AnnaSmith21",
-                        //isDeleted = false
+                        
 
                     },
                         new User
@@ -39,7 +39,7 @@ namespace Projectusers.Models
                             Surname = "Boyce",
                             dateOfBirth = DateTime.Parse("1982-09-15"),
                             Login = "Will2132",
-                        // isDeleted=false
+                        
 
                     },
                         new User
@@ -48,7 +48,7 @@ namespace Projectusers.Models
                             Surname = "Lake",
                             dateOfBirth = DateTime.Parse("1964-01-22"),
                             Login = "Jale123124",
-                        //isDeleted=false
+                       
 
                     }
                         );

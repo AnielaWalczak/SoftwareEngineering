@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Projectusers.Data;
 using Projectusers.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ProjectusersContext>(options =>

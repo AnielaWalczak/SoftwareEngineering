@@ -85,7 +85,7 @@ namespace Projectusers.Controllers
             {
                 return NotFound();
             }
-
+          
             if (ModelState.IsValid)
             {
                 try
@@ -140,7 +140,9 @@ namespace Projectusers.Controllers
             var user = await _context.User.FindAsync(id);
             if (user.isDeleted == false)
                 user.isDeleted = true;
-            
+            if (user.isDeleted == true)
+                user.isDeleted = true;
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
