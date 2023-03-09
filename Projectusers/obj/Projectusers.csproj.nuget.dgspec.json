@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj": {}
+    "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj": {
+    "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
+        "projectUniqueName": "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
         "projectName": "Projectusers",
-        "projectPath": "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
+        "projectPath": "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
         "packagesPath": "C:\\Users\\walcz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\obj\\",
+        "outputPath": "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

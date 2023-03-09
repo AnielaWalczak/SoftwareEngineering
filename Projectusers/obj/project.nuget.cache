@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aeapInmZEojtIPj8OuZ/TQ7sEdy4/ISMARsN5K0ldtaVx4ncnk3tSlPhs+Z8vjFSVHR9UHU07B7qa/00WfKp1Q==",
+  "dgSpecHash": "RPjG/q/U4jcVAwoI3FTkjcOg6n/QEk0FpYOF2iRGTaR/W8p9uRG5KBXMDgxfWx0/j5+lE8TPnfNM/AD88U0e7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\walcz\\Desktop\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
+  "projectFilePath": "C:\\Users\\walcz\\Desktop\\studia\\inzynieria i pracownia\\visual\\Projectusers\\Projectusers\\Projectusers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\walcz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\walcz\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

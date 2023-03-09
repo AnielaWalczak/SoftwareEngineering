@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Projectusers.Data;
 using Projectusers.Models;
 
-var builder = WebApplication.CreateBuilder(args);
+WebApplicationBuilder? builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ProjectusersContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ProjectusersContext")));
